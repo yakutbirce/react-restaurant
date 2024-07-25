@@ -102,6 +102,8 @@ restaurant-website/
 
 Bu dosya Netlify üzerinde deploy edilmek için güncellenmiştir.
 
+## Canlı Demo
+Projeyi canlı olarak şu URL'den görebilirsiniz: [Burger Bonanza](https://buger-bonanza.netlify.app)
 
 ## License
 
